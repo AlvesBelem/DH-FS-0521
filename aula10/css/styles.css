@@ -1,0 +1,9 @@
+/* existem 3 formas de aplicar os estilos:
+diretamente na tag
+utilizando classes aplicadas nas tags
+utilizando ids aplicados nas tags */
+
+body{
+    background-color: yellow;
+}
+

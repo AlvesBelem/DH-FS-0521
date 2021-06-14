@@ -1,0 +1,6 @@
+Qual a diferença entre git e github ? 
+Git podemos entitular como os comandos que efetuamos no terminal. 
+E em cima do git, foi inventada uma aplicação  que é o Github para que os usuários pudessem acompanhar o versionamento do projeto e também poder interagir seguindo outros usuários (ou até mesmo ser seguido), acompanhando projetos de outros usuários e até mesmo podendo colaborar nestes mesmos projetos (assim como, outros usuários também podem colaborar no seu projeto), obviamente terá que ser liberado uma permissão para o usuário que não for dono do repositório, quem libera esta permissão é o dono do repositório.
+
+O comando para efetuar o clone de um repositório é o comando a seguir: git clone URL_DO_REPOSITORIO.git
+O que este comando de clone faz ? Trazer a versão mais atual do projeto que está armazenado de forma remota (no github) para nossa máquina, criando uma versão local para podermos trabalhar (local).
