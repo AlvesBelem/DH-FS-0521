@@ -3,6 +3,12 @@ diretamente na tag
 utilizando classes aplicadas nas tags
 utilizando ids aplicados nas tags */
 
+/* defenindo altura da pagina para conseguir aplicar uma altura no header em porcentagem */
+
+html, body{
+    height: 100%;
+}
+
 /* estilizando o header */
 
 header{
@@ -15,8 +21,18 @@ header{
     width: 100%;
     background-color: #ffb90f;
     margin-top: 70px;
+    position: relative;
 }
 
 /* referenciando classes de elementos com (ponto nome da classe) .nome-da-classe*/
 
 /* Referenciando por id de elemenntos (com # e id do elemento) #id-do-elemento */
+
+header nav img {
+    width: 200px;
+    position: absolute;
+    top: -65px;
+}
+
+
+
