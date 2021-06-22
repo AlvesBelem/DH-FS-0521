@@ -2,8 +2,19 @@
 
 Links para estudos
 
+Links relacionados a display:
 https://www.w3schools.com/cssref/tryit.asp?filename=trycss_display
-
+https://codepen.io/cem_eygi/pen/rQWQpQ
+https://codepen.io/nicofetter/full/wgqdoL
+Links relacionados a position:
+https://www.w3schools.com/css/css_positioning.asp
+https://www.w3schools.com/css/tryit.asp?filename=trycss_position_static
+https://www.w3schools.com/css/tryit.asp?filename=trycss_position_relative
+https://www.w3schools.com/css/tryit.asp?filename=trycss_position_fixed
+https://www.w3schools.com/css/tryit.asp?filename=trycss_position_absolute
+https://www.w3schools.com/css/tryit.asp?filename=trycss_position_sticky
+Link relacionado ao z-index:
+https://www.w3schools.com/css/tryit.asp?filename=trycss_zindex
 
 Display - 
 
